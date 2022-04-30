@@ -1,0 +1,3882 @@
+[
+  {
+    "name": "Sainik Food",
+    "city": "Delhi NCR",
+    "telephone": "011 22486474 +91 9717806814",
+    "address": "C 4/1, Opposite Mother Dairy, Pandav Nagar, New Delhi",
+    "longitude": 77.28487115,
+    "latitude": 28.61773241
+  },
+  {
+    "name": "Brij Palace Restaurant",
+    "city": "Delhi NCR",
+    "telephone": "+91 9891828106",
+    "address": "4, Okhla Bus Stand, Jamia Nagar, Near, Jasola, New Delhi",
+    "longitude": 77.29122296,
+    "latitude": 28.56303436
+  },
+  {
+    "name": "Sahib Hotel",
+    "city": "Delhi NCR",
+    "telephone": "+91 9670005455",
+    "address": "121, Amrit Kaur Market, Opposite New Delhi Railway Station Gate 4, Paharganj, New Delhi",
+    "longitude": 77.21829806,
+    "latitude": 28.64241064
+  },
+  {
+    "name": "The Food Story",
+    "city": "Delhi NCR",
+    "telephone": "+91 7065545356",
+    "address": "Booth 100, Sector 17, Faridabad",
+    "longitude": 77.3278938,
+    "latitude": 28.4101578
+  },
+  {
+    "name": "Manish Indian & Chinese Food Corner",
+    "city": "Delhi NCR",
+    "telephone": "+91 9319546373",
+    "address": "K 2, Mata Chowk, Near Maximum Muscles Gym, Mahipalpur, New Delhi",
+    "longitude": 77.12931812,
+    "latitude": 28.54142922
+  },
+  {
+    "name": "Way To Waffles",
+    "city": "Delhi NCR",
+    "telephone": "+91 9999835784 +91 8287183270",
+    "address": "15, Sector 3/A, Rachna, Vashali, Ghaziabad",
+    "longitude": 77.33703308,
+    "latitude": 28.63883753
+  },
+  {
+    "name": "Food Fantasy",
+    "city": "Delhi NCR",
+    "telephone": "00 1122794990 00 1122700251",
+    "address": "P-35-36, Opposite Fine Home Apartments, Mayur Vihar Phase 1, New Delhi",
+    "longitude": 77.29276288,
+    "latitude": 28.60820228
+  },
+  {
+    "name": "Friend Z Cafe",
+    "city": "Delhi NCR",
+    "telephone": "Not Available",
+    "address": "Opposite DTU College, Shahbad, Daulatpur, Sector 17, Rohini, New Delhi",
+    "longitude": 77.11736821,
+    "latitude": 28.74482325
+  },
+  {
+    "name": "Nutritious Bites",
+    "city": "Delhi NCR",
+    "telephone": "+91 9999610006",
+    "address": "F - 10/18, Sector 15, Rohini, New Delhi",
+    "longitude": 77.12973,
+    "latitude": 28.735006
+  },
+  {
+    "name": "Bombay's Royal China",
+    "city": "Delhi NCR",
+    "telephone": "+91 9599917178 +91 9599917179",
+    "address": "Shop 76, DDA Market, Prashant Vihar, New Delhi",
+    "longitude": 77.1370452,
+    "latitude": 28.7130441
+  },
+  {
+    "name": "Gazzab Family Restaurant",
+    "city": "Delhi NCR",
+    "telephone": "Not Available",
+    "address": "Opposite Dashrathpuri, Metro Station, Palam Dabri Road, Palam",
+    "longitude": 77.08204485,
+    "latitude": 28.60123052
+  },
+  {
+    "name": "The Bunk House",
+    "city": "Delhi NCR",
+    "telephone": "+91 9811147022 +91 9911081199",
+    "address": "2nd Floor, Bulding 6, Hauz Khas Village, New Delhi",
+    "longitude": 77.19494037,
+    "latitude": 28.55448525
+  },
+  {
+    "name": "AIR- An Ivory Region",
+    "city": "Delhi NCR",
+    "telephone": "011 66103930",
+    "address": "1/83, Third Floor, Club Road, West Punjabi Bagh, Punjabi Bagh, New Delhi",
+    "longitude": 76.9869859,
+    "latitude": 28.547809
+  },
+  {
+    "name": "Pizza Galleria",
+    "city": "Delhi NCR",
+    "telephone": "+91 9355717999 +91 9355727999",
+    "address": "Lower Ground Floor 11 & 40, Galleria Market, Gaur City 2, Greater Noida",
+    "longitude": 77.42357522,
+    "latitude": 28.61957805
+  },
+  {
+    "name": "Chakkhna : Beyond Peanuts",
+    "city": "Delhi NCR",
+    "telephone": "0124 4037897 +91 9999700302",
+    "address": "110, 1st Floor, Chakkhna, The Sapphire Mall, Opposite Orchid Petals, Sector 49, Gurgaon",
+    "longitude": 77.04911973,
+    "latitude": 28.41173959
+  },
+  {
+    "name": "Truffle Tangles",
+    "city": "Delhi NCR",
+    "telephone": "+91 9871567512",
+    "address": "Flat 122, Jasmanium 2, Vatika City, Sector 49, Near Sohna Road, Gurgaon",
+    "longitude": 77.03633431,
+    "latitude": 28.42824314
+  },
+  {
+    "name": "Foodee Hub",
+    "city": "Delhi NCR",
+    "telephone": "+91 9821074728 +91 9711629181",
+    "address": "C 31, Block B, Shisha Godam Road, Bhagwati Garden, Nawada, Uttam Nagar, New Delhi",
+    "longitude": 77.03473,
+    "latitude": 28.622518
+  },
+  {
+    "name": "Anand Special Nasta",
+    "city": "Delhi NCR",
+    "telephone": "+91 8860980781",
+    "address": "B 19, Som Bazar Road, Rajapuri, Uttam Nagar, New Delhi",
+    "longitude": 77.05690518,
+    "latitude": 28.61077982
+  },
+  {
+    "name": "Taste Of Kerala",
+    "city": "Delhi NCR",
+    "telephone": "+91 9818070821",
+    "address": "Opp BPTP Entrance Gate, Tigaon Road, Sector 82 , Faridabad, Faridabad",
+    "longitude": 77.3521459,
+    "latitude": 28.3987444
+  },
+  {
+    "name": "Pepper And Salt",
+    "city": "Delhi NCR",
+    "telephone": "+91 8586888311 +91 9810409500",
+    "address": "Shop 3, Club House Palm Olympia, Greater Gaur City- 2, Noida West, Gaur City 2, Greater Noida",
+    "longitude": 77.42279068,
+    "latitude": 28.61763028
+  },
+  {
+    "name": "Capri Chef Cart",
+    "city": "Delhi NCR",
+    "telephone": "+91 9818258261 011 65879272",
+    "address": "Near Oxford School, F Block, Vikaspuri, New Delhi",
+    "longitude": 77.0715342,
+    "latitude": 28.6393096
+  },
+  {
+    "name": "Wah Shah Ji Wah",
+    "city": "Delhi NCR",
+    "telephone": "+91 9211557048 +91 9266131618",
+    "address": "WZ-179, Mukherji Park, Punjabi Market Road, Tilak Nagar, New Delhi",
+    "longitude": 77.10414391,
+    "latitude": 28.6437065
+  },
+  {
+    "name": "Food Swag",
+    "city": "Delhi NCR",
+    "telephone": "+91 9999104365",
+    "address": "Main Road, Near Kangna Grand Banquet Hall, Uttam Nagar, New Delhi",
+    "longitude": 77.05395274,
+    "latitude": 28.62135892
+  },
+  {
+    "name": "Pizza Tree",
+    "city": "Delhi NCR",
+    "telephone": "+91 9999139198",
+    "address": "Ground Floor, Shop 6, VDS Market, Sector 51, Noida",
+    "longitude": 77.372403,
+    "latitude": 28.586718
+  },
+  {
+    "name": "Black Paper",
+    "city": "Delhi NCR",
+    "telephone": "+91 9654292303",
+    "address": "Shop 5, 1st Floor, A block Market, Opposite Manas Hospital, Sector 34, Noida",
+    "longitude": 77.3594503,
+    "latitude": 28.586476
+  },
+  {
+    "name": "Vivoo Chicken Corner",
+    "city": "Delhi NCR",
+    "telephone": "+91 9650464848",
+    "address": "Shop 1, Raja Nahar Singh Market Near Ram Mandir, Sector 3, Ballabhgarh, Faridabad",
+    "longitude": 0,
+    "latitude": 0
+  },
+  {
+    "name": "The 6 Russel Street",
+    "city": "Kolkata",
+    "telephone": "+91 9836778768 +91 8582862676",
+    "address": "6, Chowringhee, Kolkata",
+    "longitude": 88.34964752,
+    "latitude": 22.54912835
+  },
+  {
+    "name": "EggOMogo",
+    "city": "",
+    "telephone": "+91 9819029605",
+    "address": "Shop 5, Dhandurga Society, Uthalsar Naka, Near Castle Mill, Thane West, Thane",
+    "longitude": 72.978054,
+    "latitude": 19.203391
+  },
+  {
+    "name": "The Biryani Darbar",
+    "city": "Kolkata",
+    "telephone": "+91 7908144616",
+    "address": "Gate 2, Shahpoorji Complex, New Town, Kolkata",
+    "longitude": 88.514078,
+    "latitude": 22.565736
+  },
+  {
+    "name": "Biryani & Kormas",
+    "city": "Delhi NCR",
+    "telephone": "+91 9773625438",
+    "address": "B 116, Basement, Greenfield Colony, Sector 43, Faridabad",
+    "longitude": 77.29993913,
+    "latitude": 28.46220371
+  },
+  {
+    "name": "eat.fit",
+    "city": "Delhi NCR",
+    "telephone": "Not Available",
+    "address": "Grand Mall, Near Sikanderpur Metro Station, MG Road, Gurgaon",
+    "longitude": 77.09054947,
+    "latitude": 28.47964952
+  },
+  {
+    "name": "Aggarwal Cake Village",
+    "city": "Delhi NCR",
+    "telephone": "+91 9560246196 +91 9560830523",
+    "address": "F-2/20, Mohan Garden, Pipal Wala Road, Uttam Nagar, New Delhi",
+    "longitude": 77.03928106,
+    "latitude": 28.62715513
+  },
+  {
+    "name": "Kachhomal Sweets",
+    "city": "",
+    "telephone": "0251 2700815 +91 9320070815",
+    "address": "Shop 130-131, Siru Chowk, Ulhasnagar, Thane",
+    "longitude": 73.16295024,
+    "latitude": 19.22959213
+  },
+  {
+    "name": "Maa Sheetla Sweets & Caterers",
+    "city": "Delhi NCR",
+    "telephone": "+91 9213020715 +91 9810337088",
+    "address": "Sheetla Mata Road, Rajeev Nagar, Sector 14, Gurgaon",
+    "longitude": 77.03454595,
+    "latitude": 28.47373024
+  },
+  {
+    "name": "Crispy Masala Chicken",
+    "city": "Kolkata",
+    "telephone": "+91 9874897406",
+    "address": "Swagat Garden, Chalpatti, Baguihati, Kolkata",
+    "longitude": 88.42623096,
+    "latitude": 22.61059551
+  },
+  {
+    "name": "Rehdiwalaa.com",
+    "city": "Delhi NCR",
+    "telephone": "+91 9879631737",
+    "address": "Unit 35 & 36, Centrum Plaza, Golf Course Road, Sector 53, Gurgaon",
+    "longitude": 77.10322458,
+    "latitude": 28.43397952
+  },
+  {
+    "name": "King's Shawarma",
+    "city": "Delhi NCR",
+    "telephone": "+91 8882853504",
+    "address": "R-10/F-62, Block 10, Sector 10, Raj Nagar, Near Om Sweet Ghaziabad",
+    "longitude": 77.44726583,
+    "latitude": 28.68174802
+  },
+  {
+    "name": "Shri Ram Bikaner Sweet & Snacks",
+    "city": "Delhi NCR",
+    "telephone": "+91 9990139109",
+    "address": "D 26, IP Colony, Sector 31, Faridabad",
+    "longitude": 77.31569778,
+    "latitude": 28.45279364
+  },
+  {
+    "name": "Taj Biryani Center",
+    "city": "Delhi NCR",
+    "telephone": "+91 8447803992",
+    "address": "Shop 1, Islampur Village, Near Honda Showroom, Subhash Chowk, Sector 38, Near Sector 33, Gurgaon",
+    "longitude": 77.03671385,
+    "latitude": 28.42830653
+  },
+  {
+    "name": "Eat & Gulp",
+    "city": "Delhi NCR",
+    "telephone": "+91 9711676496 +91 8368023498",
+    "address": "Shop A-11, Street 9, Sanjay Nagar Road, Mahindra park, Azadpur, New Delhi",
+    "longitude": 77.16846831,
+    "latitude": 28.71925588
+  },
+  {
+    "name": "Caesar's Kitchen",
+    "city": "Delhi NCR",
+    "telephone": "0120 4148676",
+    "address": "3rd Floor, The Great India Place, Sector 38, Noida",
+    "longitude": 77.32557669,
+    "latitude": 28.56746722
+  },
+  {
+    "name": "Jain Sweets & Bakers",
+    "city": "Delhi NCR",
+    "telephone": "011 41041474 +91 9540144202",
+    "address": "A Block, Near Main Red Light Chowk, Opposite Vishal Mega Mart, Mahipalpur, New Delhi",
+    "longitude": 77.12476574,
+    "latitude": 28.54697391
+  },
+  {
+    "name": "Punjabi Wok",
+    "city": "Delhi NCR",
+    "telephone": "+91 9811443384 +91 9811443385",
+    "address": "Shop 15/27, Central Market, Near Deep Market, Ashok Vihar Phase 1, New Delhi",
+    "longitude": 77.17299219,
+    "latitude": 28.69338404
+  },
+  {
+    "name": "The Real Heavens",
+    "city": "Delhi NCR",
+    "telephone": "+91 8076597771 +91 8700756520",
+    "address": "Shop no.1, 1st floor opposite pillar no 226, Hoshiarpur market Sec 51 Noida.",
+    "longitude": 77.36812592,
+    "latitude": 28.58334819
+  },
+  {
+    "name": "M's Kitchen",
+    "city": "",
+    "telephone": "+91 9833844889 022 27801019",
+    "address": "Plot 201, Sector 12, Vashi, Navi",
+    "longitude": 73.00122377,
+    "latitude": 19.08874032
+  },
+  {
+    "name": "Rubaab Restaurant",
+    "city": "Delhi NCR",
+    "telephone": "011 66103527",
+    "address": "S-2, 1st Floor, Gamma Shopping Complex, Jagat Farm Main Market, Above Canara Bank, Gamma 1, Greater Noida",
+    "longitude": 77.49822915,
+    "latitude": 28.48197824
+  },
+  {
+    "name": "Petuk Food Parlour",
+    "city": "Kolkata",
+    "telephone": "+91 8420511676",
+    "address": "218, Joyrampur Jala Road, Behala, Kolkata",
+    "longitude": 88.301989,
+    "latitude": 22.497069
+  },
+  {
+    "name": "Rashmin The Mithai Shop",
+    "city": "",
+    "telephone": "022 28443613",
+    "address": "Dr. Suchak Chowk, Near Railway Station, Daftary Road, Malad East,",
+    "longitude": 72.85014097,
+    "latitude": 19.18775146
+  },
+  {
+    "name": "Cookie Man",
+    "city": "Kolkata",
+    "telephone": "+91 9836668682",
+    "address": "3rd Floor, South City Mall, 375, Prince Anwar Shah Road, Kolkata",
+    "longitude": 88.36117499,
+    "latitude": 22.5016653
+  },
+  {
+    "name": "Ayub's",
+    "city": "",
+    "telephone": "+91 9821199147 +91 8655618535",
+    "address": "43, Dr VB Gandhi Marg, Fort,",
+    "longitude": 72.83314146,
+    "latitude": 18.92832199
+  },
+  {
+    "name": "Welcome Chicken Corner",
+    "city": "Delhi NCR",
+    "telephone": "+91 9266110055",
+    "address": "Shop 27, C Block Market, East of Kailash, New Delhi",
+    "longitude": 77.25688465,
+    "latitude": 28.55933074
+  },
+  {
+    "name": "Domino's Pizza",
+    "city": "Delhi NCR",
+    "telephone": "0120 4803255 18602100000",
+    "address": "C-2/22, Sector 18, Noida",
+    "longitude": 77.32449409,
+    "latitude": 28.57037024
+  },
+  {
+    "name": "Swad Food & Caterers",
+    "city": "Delhi NCR",
+    "telephone": "+91 7838776669 +91 9818110729",
+    "address": "G 45, Vishal Tower, District Centre, Janakpuri, New Delhi",
+    "longitude": 77.08084255,
+    "latitude": 28.62938201
+  },
+  {
+    "name": "Jai Shree Ram Sweets",
+    "city": "Delhi NCR",
+    "telephone": "+91 9953145640 +91 9250529340",
+    "address": "Near Shiv Mandir, Sheetla Mata Road, Rajeev Nagar, Sector 14, Gurgaon",
+    "longitude": 77.03478366,
+    "latitude": 28.47572312
+  },
+  {
+    "name": "M/S Binode Behari Nag Ganesh Chandra Dutta",
+    "city": "Kolkata",
+    "telephone": "Not Available",
+    "address": "3A, Hare Street, Dalhousie BBD Bagh, Kolkata",
+    "longitude": 88.34636249,
+    "latitude": 22.57146678
+  },
+  {
+    "name": "Red Chilli Hub",
+    "city": "Delhi NCR",
+    "telephone": "+91 8800147345",
+    "address": "2/137, Block 2, Sector 5, Dakshinpuri, Tughlakabad Institutional Area, New Delhi",
+    "longitude": 0,
+    "latitude": 0
+  },
+  {
+    "name": "Sonu Shudh Bhojanalya",
+    "city": "Delhi NCR",
+    "telephone": "+91 9810541284",
+    "address": "A-786, GD Colony, Near Hanuman Mandir, Mayur Vihar Phase 3, New Delhi",
+    "longitude": 77.33349826,
+    "latitude": 28.61263795
+  },
+  {
+    "name": "Shree Radhey Shyam Dhaba",
+    "city": "Delhi NCR",
+    "telephone": "Not Available",
+    "address": "L 9, Sundar Singh Market, Mahipalpur, New Delhi",
+    "longitude": 77.12557979,
+    "latitude": 28.54625264
+  },
+  {
+    "name": "Punjabi Factory",
+    "city": "Delhi NCR",
+    "telephone": "+91 9643323323",
+    "address": "CSC-8, DDA Market, Opposite Remal Public School, 2nd Floor, Sector 3, Rohini, New Delhi",
+    "longitude": 77.10566103,
+    "latitude": 28.69963534
+  },
+  {
+    "name": "Pizza Terminal",
+    "city": "Delhi NCR",
+    "telephone": "011 22503012 +91 9718508297",
+    "address": "F-12, Jagatpuri Parwana Road, Near Reliance Fresh, Laxmi Nagar, New Delhi",
+    "longitude": 77.293069,
+    "latitude": 28.646626
+  },
+  {
+    "name": "Dunlop Hotel and Restaurant",
+    "city": "Kolkata",
+    "telephone": "033 65010761 +91 9831048694",
+    "address": "144/1, B.T. Road, Baranagar, Kolkata",
+    "longitude": 88.3774808,
+    "latitude": 22.65251271
+  },
+  {
+    "name": "Deseez",
+    "city": "Delhi NCR",
+    "telephone": "+91 9599299000",
+    "address": "702, Near Qutub Auto, Jharsa, Sector 39, Gurgaon",
+    "longitude": 77.05157295,
+    "latitude": 28.43863332
+  },
+  {
+    "name": "Chefs and Cooks Caterers",
+    "city": "Delhi NCR",
+    "telephone": "00 919711704006",
+    "address": "35/36, R-3 A2, Street 4, Mohan Garden, Uttam Nagar, New Delhi",
+    "longitude": 77.05040518,
+    "latitude": 28.63758427
+  },
+  {
+    "name": "The Parantha Corner",
+    "city": "Delhi NCR",
+    "telephone": "+91 7838670006 +91 9911670006",
+    "address": "Shop 2, B-2/99, Sector 16, Rohini, New Delhi",
+    "longitude": 77.13002019,
+    "latitude": 28.73751074
+  },
+  {
+    "name": "Biryani 99",
+    "city": "Delhi NCR",
+    "telephone": "+91 9999777636",
+    "address": "195, Jaipuria Sunrise Plaza, Indirapuram, Ghaziabad",
+    "longitude": 77.37635762,
+    "latitude": 28.63939632
+  },
+  {
+    "name": "Kitchen22",
+    "city": "Delhi NCR",
+    "telephone": "+91 9266661780 +91 9212136061",
+    "address": "Near A Block Club Defence Colony, New Delhi",
+    "longitude": 77.23015677,
+    "latitude": 28.57218934
+  },
+  {
+    "name": "Foodie",
+    "city": "Kolkata",
+    "telephone": "+91 7450014539",
+    "address": "Tarulia 1st Lane, Kestopur, Kolkata",
+    "longitude": 88.43864053,
+    "latitude": 22.58812877
+  },
+  {
+    "name": "Tirupati Dosa Centre",
+    "city": "",
+    "telephone": "+91 9987289024 +91 9769861553",
+    "address": "Opposite Police Chowki, Behind Data Sai Mandir, 7 Bungalows, Andheri West",
+    "longitude": 72.81673305,
+    "latitude": 19.12861842
+  },
+  {
+    "name": "Chinese Express",
+    "city": "Delhi NCR",
+    "telephone": "+91 9716485669",
+    "address": "Shop 31, 28-29 Dividing Road, Sector 19, Faridabad",
+    "longitude": 77.31104515,
+    "latitude": 28.42764666
+  },
+  {
+    "name": "D'Brata Biryani",
+    "city": "Kolkata",
+    "telephone": "+91 6291022879",
+    "address": "ITI More, Kalyani, Kolkata",
+    "longitude": 88.438065,
+    "latitude": 22.980232
+  },
+  {
+    "name": "Where's My Cone?",
+    "city": "",
+    "telephone": "+91 8291603137",
+    "address": "Shop 9, Corner View Building, 33rd Road, Pali Hill, Bandra West,",
+    "longitude": 72.83171251,
+    "latitude": 19.06503864
+  },
+  {
+    "name": "Kadimi Sweets",
+    "city": "Delhi NCR",
+    "telephone": "+91 9212396988 +91 9811355160",
+    "address": "38, Central Road, Jangpura, New Delhi",
+    "longitude": 77.24820066,
+    "latitude": 28.58266574
+  },
+  {
+    "name": "Bikanervala",
+    "city": "Delhi NCR",
+    "telephone": "0124 4337777",
+    "address": "Plot 3-5, Near Leisure Valley Park, Sector 29, Gurgaon",
+    "longitude": 77.06368346,
+    "latitude": 28.46900519
+  },
+  {
+    "name": "Brewtoast",
+    "city": "Delhi NCR",
+    "telephone": "+91 9811530183 +91 9953998675",
+    "address": "C 11, Shop 2, Lajpat Nagar 4, Amar Colony, New Delhi",
+    "longitude": 77.24370293,
+    "latitude": 28.56247487
+  },
+  {
+    "name": "Mirwah Restaurant",
+    "city": "",
+    "telephone": "022 61344250",
+    "address": "Shop 1, Ambika Apartments, Mahakali Caves Road, Mahakali,",
+    "longitude": 72.86428593,
+    "latitude": 19.12347378
+  },
+  {
+    "name": "Ayde's",
+    "city": "Delhi NCR",
+    "telephone": "+91 9716551000",
+    "address": "1186, Najafgarh-Kapashera Road, Bijwasan, Near Palam Apartment, Kapashera, New Delhi",
+    "longitude": 77.056529,
+    "latitude": 28.53334228
+  },
+  {
+    "name": "Shera Ki Rasoi",
+    "city": "Delhi NCR",
+    "telephone": "+91 8009151993 +91 9891086702",
+    "address": "House L 73, Master Ji Building, Plot L 3, Street 1, Mahipalpur, New Delhi",
+    "longitude": 77.12552615,
+    "latitude": 28.54607946
+  },
+  {
+    "name": "Cheese Central",
+    "city": "Delhi NCR",
+    "telephone": "+91 9899020505",
+    "address": "Shop 1, Bhati Market, Sahedra Village, Opposite Paras Tierea, Sector 141 Sector 132, Noida",
+    "longitude": 77.4144252,
+    "latitude": 28.50483421
+  },
+  {
+    "name": "The Tummy Tickles",
+    "city": "Delhi NCR",
+    "telephone": "+91 9711685370",
+    "address": "",
+    "longitude": 0,
+    "latitude": 0
+  },
+  {
+    "name": "Muradabad Ki Shahi Chicken Biryani",
+    "city": "Delhi NCR",
+    "telephone": "+91 9891337986 +91 7065945043",
+    "address": "J-11-A, Phase 2, Sheikh Sarai, New Delhi",
+    "longitude": 77.22979467,
+    "latitude": 28.53470045
+  },
+  {
+    "name": "Cafe L2L",
+    "city": "Delhi NCR",
+    "telephone": "+91 9910130279 00 1204185334",
+    "address": "B 7, First Floor, Near Sector 15 Metro Station, Sector 2, Noida",
+    "longitude": 77.31291667,
+    "latitude": 28.58517384
+  },
+  {
+    "name": "Sweet Sins",
+    "city": "Delhi NCR",
+    "telephone": "+91 9810293932",
+    "address": "Pocket 12, Kalkaji, New Delhi",
+    "longitude": 77.25742478,
+    "latitude": 28.52574047
+  },
+  {
+    "name": "Kwality",
+    "city": "Kolkata",
+    "telephone": "033 40062949 033 40013710",
+    "address": "17, Park Street, Park Street Area, Kolkata",
+    "longitude": 88.35188147,
+    "latitude": 22.55341469
+  },
+  {
+    "name": "Punjabi Dhaba",
+    "city": "",
+    "telephone": "+91 8291214286 +91 8291209746",
+    "address": "JB Nagar, Opposite Trade Star, Andheri Kurla Road, Chakala,",
+    "longitude": 72.87003458,
+    "latitude": 19.1112769
+  },
+  {
+    "name": "Anda's Funda",
+    "city": "Delhi NCR",
+    "telephone": "+91 8077327405 +91 9783810516",
+    "address": "A 56, 2nd Floor, Old Double Storey, Lajpat Nagar 4, New Delhi",
+    "longitude": 77.24522341,
+    "latitude": 28.56466277
+  },
+  {
+    "name": "Dragon Express",
+    "city": "",
+    "telephone": "+91 9967630927 +91 7977678568",
+    "address": "Shop 5, Shah Prima, Opposite Glomax Mall, Sector 2, Kharghar, Navi",
+    "longitude": 73.06543954,
+    "latitude": 19.03018833
+  },
+  {
+    "name": "Essen Foods",
+    "city": "Delhi NCR",
+    "telephone": "+91 9871600595 +91 9818624168",
+    "address": "Shop 2, Vill Mamura, Sector 66, Near Sector 59, Noida",
+    "longitude": 77.3781674,
+    "latitude": 28.6095755
+  },
+  {
+    "name": "Patiala Food Factory",
+    "city": "Delhi NCR",
+    "telephone": "+91 9868456777 +91 8802616953",
+    "address": "G27, Vardhaman City Plus Mall, Sector 23, Dwarka",
+    "longitude": 77.05457166,
+    "latitude": 28.5644481
+  },
+  {
+    "name": "S V Fast Food",
+    "city": "Delhi NCR",
+    "telephone": "+91 8527308744",
+    "address": "10, Ground Floor, Shakti Khand 3, Indirapuram, Ghaziabad",
+    "longitude": 0,
+    "latitude": 0
+  },
+  {
+    "name": "Royal Inn Hotel And Restaurant",
+    "city": "Kolkata",
+    "telephone": "+91 9330911734 +91 7980957574",
+    "address": "102/106, Halisahar Bag Station Road, Bagmore Kanchrapara, Kalyani, Kolkata",
+    "longitude": 88.424211,
+    "latitude": 22.952405
+  },
+  {
+    "name": "Goms Pizza",
+    "city": "Delhi NCR",
+    "telephone": "+91 7290990990",
+    "address": "Shop 2, Gambhir Singh Market, Behind Stellar Jeevan & Ace City, Sector 1, Amrapali Leisure Valley, Greater Noida",
+    "longitude": 77.44944982,
+    "latitude": 28.5657514
+  },
+  {
+    "name": "Atipriya's Kitchen",
+    "city": "Delhi NCR",
+    "telephone": "+91 7290849083",
+    "address": "D-53, First Floor, Rana Pratap Road, Adarsh Nagar, Azadpur, New Delhi",
+    "longitude": 0,
+    "latitude": 0
+  },
+  {
+    "name": "Hem- The Cake Shop",
+    "city": "",
+    "telephone": "+91 9082145230",
+    "address": "Shop 11, Fakhri Apartment, Mathradas Road, Near Vanja Wadi, Kandivali West,",
+    "longitude": 72.84179796,
+    "latitude": 19.20326439
+  },
+  {
+    "name": "Waah Kachori",
+    "city": "Kolkata",
+    "telephone": "+91 8240302329",
+    "address": "JG 2/2, Ashwini Nagar, Opposite To Abhijatri Club, Beside Petuk Mosai, Baguihati, Kolkata",
+    "longitude": 88.43287949,
+    "latitude": 22.61000002
+  },
+  {
+    "name": "Arabitia Café",
+    "city": "Delhi NCR",
+    "telephone": "+91 8448067878",
+    "address": "LOTS Wholesale Building, Near NSP Red Line Metro Station Gate 2 & 3, Netaji Subhash Place, New Delhi",
+    "longitude": 77.15158344,
+    "latitude": 28.69548839
+  },
+  {
+    "name": "Bharawaan Di Rasoi",
+    "city": "Delhi NCR",
+    "telephone": "+91 8929522573 +91 8929522574",
+    "address": "Plot 11, 18/2 Sector 15A, Sector 15, Faridabad",
+    "longitude": 77.31350172,
+    "latitude": 28.39321931
+  },
+  {
+    "name": "Bahaar Restaurant",
+    "city": "Delhi NCR",
+    "telephone": "Not Available",
+    "address": "Near Sikanderpur Metro Station, MG Road, Gurgaon",
+    "longitude": 77.09214237,
+    "latitude": 28.48046584
+  },
+  {
+    "name": "Hauz Khas Social",
+    "city": "Delhi NCR",
+    "telephone": "+91 7838652814",
+    "address": "9-A & 12, Hauz Khas Village, New Delhi",
+    "longitude": 77.19443813,
+    "latitude": 28.55429353
+  },
+  {
+    "name": "Time Out Cafe",
+    "city": "Delhi NCR",
+    "telephone": "0120 4345283 +91 7838268059",
+    "address": "Plot 22, Near Ashiana Green, Ahinsa Khand 2, Indirapuram, Ghaziabad",
+    "longitude": 77.38221891,
+    "latitude": 28.64059011
+  },
+  {
+    "name": "Crazy Bhukkhad",
+    "city": "Delhi NCR",
+    "telephone": "+91 9821464561",
+    "address": "Near Gehlot Farm, Sector 47, South City 2, Gurgaon",
+    "longitude": 77.05072101,
+    "latitude": 28.43018262
+  },
+  {
+    "name": "South Indian Corner",
+    "city": "Delhi NCR",
+    "telephone": "011 32328086 +91 9810303556",
+    "address": "26, DDA Market, Sector 13, Rohini, New Delhi",
+    "longitude": 77.12746739,
+    "latitude": 28.723778
+  },
+  {
+    "name": "Chennai Food Palace",
+    "city": "Delhi NCR",
+    "telephone": "+91 9891571124",
+    "address": "Shop 31, Sector 3-A, Vaishali, Ghaziabad",
+    "longitude": 77.33637191,
+    "latitude": 28.63854238
+  },
+  {
+    "name": "Adarsh Pure Veg",
+    "city": "",
+    "telephone": "022 25780162 022 25784866",
+    "address": "Opposite Petrol Pump, LBS Marg, Vikhroli West, Vikhroli,",
+    "longitude": 72.92514928,
+    "latitude": 19.1101038
+  },
+  {
+    "name": "Melting Flavours",
+    "city": "Delhi NCR",
+    "telephone": "+91 7290802802 +91 7290802803",
+    "address": "Plot 107/3, Near Petals Play School, Sector 142, Near Sector 132, Noida",
+    "longitude": 77.41481781,
+    "latitude": 28.50407759
+  },
+  {
+    "name": "Rosenberg",
+    "city": "Kolkata",
+    "telephone": "+91 9007904795 +91 8420086355",
+    "address": "P193/1, C.I.T. Road, Scheme 6M, Ultadanga Main Road, Ultadanga, Kolkata",
+    "longitude": 88.39292295,
+    "latitude": 22.5921028
+  },
+  {
+    "name": "Cherubs",
+    "city": "Delhi NCR",
+    "telephone": "+91 7011559437 +91 9205922747",
+    "address": "11A/22, Shop 2, Old Rajinder Nagar New Delhi",
+    "longitude": 77.18311317,
+    "latitude": 28.63823753
+  },
+  {
+    "name": "Shankar Store",
+    "city": "Kolkata",
+    "telephone": "+91 9681401746",
+    "address": "Sukchar Raja Road, Subodh Street, Near Viyavadi, Sodepur, Kolkata",
+    "longitude": 88.37392343,
+    "latitude": 22.70578551
+  },
+  {
+    "name": "Bake Bite",
+    "city": "Delhi NCR",
+    "telephone": "+91 9599249449 +91 9599210548",
+    "address": "Shop D95, Krishna Park, Near Radha Krishna Mandir, Devli Road, Khanpur, New Delhi",
+    "longitude": 77.23215736,
+    "latitude": 28.50769506
+  },
+  {
+    "name": "Shiv Shakti Restaurant",
+    "city": "Delhi NCR",
+    "telephone": "+91 9968473939",
+    "address": "11, DDA Market, Pocket 4, Mayur Vihar Phase 1, New Delhi",
+    "longitude": 77.29327887,
+    "latitude": 28.60347001
+  },
+  {
+    "name": "Tawa Wok",
+    "city": "Delhi NCR",
+    "telephone": "0124 4989267",
+    "address": "Tatvam Villas, Dhani, Sector 48, Near Sector 50, Gurgaon",
+    "longitude": 77.0394668,
+    "latitude": 28.40641547
+  },
+  {
+    "name": "Coney's - Pizza Cones & More",
+    "city": "",
+    "telephone": "+91 8928787770 +91 8928541298",
+    "address": "Shop 5, Dipti Blossom, Shubjivan Circle, Holy Cross Road, IC Colony, Borivali West,",
+    "longitude": 72.8483868,
+    "latitude": 19.25077403
+  },
+  {
+    "name": "Sailors' Cafe",
+    "city": "",
+    "telephone": "+91 9137686834",
+    "address": "Shop 9, Belle Vista Building, Near D.Y. Patil University, CBD-Belapur, Navi",
+    "longitude": 73.03376902,
+    "latitude": 19.00700134
+  },
+  {
+    "name": "Spice & Tandoor",
+    "city": "Delhi NCR",
+    "telephone": "+91 8588877513",
+    "address": "MSX Tower 1, Alfa Commercial Belt, Alpha 1, Greater Noida",
+    "longitude": 77.51512036,
+    "latitude": 28.4734031
+  },
+  {
+    "name": "Biryaniya",
+    "city": "Delhi NCR",
+    "telephone": "+91 9650892300",
+    "address": "Supermart 2, DLF Phase 4, Gurgaon",
+    "longitude": 77.08827663,
+    "latitude": 28.46154465
+  },
+  {
+    "name": "Mosaic Express- By Crowne Plaza",
+    "city": "Delhi NCR",
+    "telephone": "011 44884488 +91 8800696918",
+    "address": "Crowne Plaza, Twin District Centre, Sector 10, Rohini, New Delhi",
+    "longitude": 0,
+    "latitude": 0
+  },
+  {
+    "name": "Knight Delight Kafe",
+    "city": "Delhi NCR",
+    "telephone": "+91 9582449394 0124 4263394",
+    "address": "Sector 4 & 5 Chowk, Station Road, Old Railway Road, Gurgaon",
+    "longitude": 77.0143117,
+    "latitude": 28.48084896
+  },
+  {
+    "name": "Ridhi Sidhi",
+    "city": "Kolkata",
+    "telephone": "+91 9830019482",
+    "address": "Gitanjali Apartment, NP-433 Nayapatti Sector 5, Salt Lake, Kolkata",
+    "longitude": 88.44042521,
+    "latitude": 22.58125581
+  },
+  {
+    "name": "Kuldeep Food Corner",
+    "city": "Delhi NCR",
+    "telephone": "+91 8586863141",
+    "address": "Shop 1, Nimri Colony, Ashok Vihar Phase 3, New Delhi",
+    "longitude": 77.1762403,
+    "latitude": 28.681556
+  },
+  {
+    "name": "Samla Food",
+    "city": "Delhi NCR",
+    "telephone": "+91 9213506484 +91 9599329628",
+    "address": "Shop S18D, Shakarpur School Block, Laxmi Nagar, New Delhi",
+    "longitude": 77.27949299,
+    "latitude": 28.626528
+  },
+  {
+    "name": "FCF Chaap & Kabab's",
+    "city": "Delhi NCR",
+    "telephone": "+91 9999534072 +91 9999534073",
+    "address": "11/92, Near Surya Continental Hotel, Subhash Nagar, New Delhi",
+    "longitude": 77.12019727,
+    "latitude": 28.63777025
+  },
+  {
+    "name": "Plum By Bent Chair",
+    "city": "Delhi NCR",
+    "telephone": "011 61495178",
+    "address": "The Walk, Worldmark 2, Aerocity, New Delhi",
+    "longitude": 77.122704,
+    "latitude": 28.55154
+  },
+  {
+    "name": "Kittoo's",
+    "city": "Delhi NCR",
+    "telephone": "+91 8586888318",
+    "address": "Bani Square Mall, S 33, Sector 50, Gurgaon",
+    "longitude": 77.05731254,
+    "latitude": 28.42544412
+  },
+  {
+    "name": "WOW Popcorn",
+    "city": "",
+    "telephone": "022 26054646",
+    "address": "B-1, Gangagiri Premisis C.H.S, Carter Road, Bandra West",
+    "longitude": 72.82305166,
+    "latitude": 19.07081632
+  },
+  {
+    "name": "Raj Bakers And Confectioners",
+    "city": "Delhi NCR",
+    "telephone": "+91 8860224615 +91 8448021133",
+    "address": "D 85, Shop 4, Mini Market, Near Holy Child School, Devki Nandan Marg, Tagore Garden Extension, Tagore Garden, New Delhi",
+    "longitude": 77.11256202,
+    "latitude": 28.65000402
+  },
+  {
+    "name": "Choutala Food Junction",
+    "city": "Delhi NCR",
+    "telephone": "+91 8285398859",
+    "address": "4/126, Lal Bahadur Mini DDA Market, Trilokpuri, New Delhi",
+    "longitude": 77.31212944,
+    "latitude": 28.61275362
+  },
+  {
+    "name": "Ghosh Sweets",
+    "city": "Kolkata",
+    "telephone": "+91 8336969572",
+    "address": "P- 284, CIT Road Scheme 6M, Phool Bagan, Kankurgachi, Kolkata",
+    "longitude": 88.38936266,
+    "latitude": 22.57147173
+  },
+  {
+    "name": "Hungry Hippo",
+    "city": "Kolkata",
+    "telephone": "+91 9836050805",
+    "address": "225, Block B, bedside laketown nursing home Lake Town, Kolkata",
+    "longitude": 88.40553202,
+    "latitude": 22.60144403
+  },
+  {
+    "name": "Vimal Sweets",
+    "city": "Delhi NCR",
+    "telephone": "+91 9999555092",
+    "address": "Y-838, Phase 1, Opposite Government School, Nangloi, New Delhi",
+    "longitude": 77.06915416,
+    "latitude": 28.68362078
+  },
+  {
+    "name": "Puchkawala",
+    "city": "Kolkata",
+    "telephone": "+91 8411930786",
+    "address": "32A Beadon Row, Ward 17, Hatibagan, Kolkata",
+    "longitude": 88.37592445,
+    "latitude": 22.58704593
+  },
+  {
+    "name": "The Royal Food Junction",
+    "city": "Delhi NCR",
+    "telephone": "+91 9319505307",
+    "address": "17, Central Market, Near Old Bus Stand, Ambedkar Road, Ghaziabad",
+    "longitude": 77.43151255,
+    "latitude": 28.6683698
+  },
+  {
+    "name": "Mojo's Food",
+    "city": "Delhi NCR",
+    "telephone": "+91 8800583963",
+    "address": "22/84, West Patel Nagar, New Delhi.",
+    "longitude": 77.16863025,
+    "latitude": 28.65419284
+  },
+  {
+    "name": "Tohfay Walla",
+    "city": "Delhi NCR",
+    "telephone": "+91 9873412259",
+    "address": "Shop 23, Ground Floor, Amrapali Crystal Homes, Shopping Arcade, Amrapali Silicon City, Sector 76, Near Sector 72, Noida",
+    "longitude": 77.3827064,
+    "latitude": 28.57117585
+  },
+  {
+    "name": "Mayur Restaurant & Bar",
+    "city": "",
+    "telephone": "022 26490654 022 26495666",
+    "address": "Juhu Road, Near Police Station, Santacruz West,",
+    "longitude": 72.83617772,
+    "latitude": 19.08446482
+  },
+  {
+    "name": "Wat the Waffle",
+    "city": "Delhi NCR",
+    "telephone": "+91 8285572423 +91 8750097749",
+    "address": "D-1, Fateh Nagar, Jail Road, New Delhi",
+    "longitude": 77.09746923,
+    "latitude": 28.63396274
+  },
+  {
+    "name": "Pirates of Punjab",
+    "city": "Delhi NCR",
+    "telephone": "011 61495026",
+    "address": "60/14, Ashok Nagar, Near Tilak Nagar Metro Station, Gate 3, Tilak Nagar, New Delhi",
+    "longitude": 77.09825881,
+    "latitude": 28.63648432
+  },
+  {
+    "name": "Woodz Pizza",
+    "city": "",
+    "telephone": "+91 8369987332",
+    "address": "Shop 745, Adarsh Nagar, New Link Road, Andheri Lokhandwala, Andheri West,",
+    "longitude": 72.83170319,
+    "latitude": 19.14467812
+  },
+  {
+    "name": "Back To Pavilion Cafe",
+    "city": "Delhi NCR",
+    "telephone": "+91 7678113529",
+    "address": "C-10, Guru Ram Das Nagar, Near Balaji Rasoi, Preet Vihar, New Delhi",
+    "longitude": 77.27685336,
+    "latitude": 28.63875749
+  },
+  {
+    "name": "Cherry Berry",
+    "city": "Delhi NCR",
+    "telephone": "+91 9015813860",
+    "address": "House 162, State Bank Colony, Near Nanak Piau Gurudwara, GTK Road, Gujranwala Town, New Delhi",
+    "longitude": 77.18997225,
+    "latitude": 28.69434193
+  },
+  {
+    "name": "Diggin",
+    "city": "Delhi NCR",
+    "telephone": "011 26110787 011 26110788",
+    "address": "10, Santushti Shopping Complex, Race Course Road, Chanakyapuri, New Delhi",
+    "longitude": 77.197924,
+    "latitude": 28.59515645
+  },
+  {
+    "name": "The Crossings Restaurant",
+    "city": "Delhi NCR",
+    "telephone": "+91 9910024162 +91 9910024172",
+    "address": "Golf Course, Opposite SBI Bank, Crossing Republik, Ghaziabad",
+    "longitude": 77.43459206,
+    "latitude": 28.62766543
+  },
+  {
+    "name": "Eggers Madhouse",
+    "city": "Delhi NCR",
+    "telephone": "+91 9899814755",
+    "address": "11, Metropark Food Court, HUDA City Centre Metro Station, Sector 29, Gurgaon",
+    "longitude": 77.0725894,
+    "latitude": 28.45957273
+  },
+  {
+    "name": "Dogs & Wiches",
+    "city": "Delhi NCR",
+    "telephone": "+91 9811148105",
+    "address": "Shop 105, 1st Floor,  Market 2, Chittaranjan Park, New Delhi",
+    "longitude": 77.25314163,
+    "latitude": 28.5368153
+  },
+  {
+    "name": "The FitBox Co.",
+    "city": "",
+    "telephone": "+91 9820282813",
+    "address": "10/251, Alankar Building, Sulochana Sethi Marg, Sion West,",
+    "longitude": 72.85744395,
+    "latitude": 19.03370139
+  },
+  {
+    "name": "Chicken App",
+    "city": "Delhi NCR",
+    "telephone": "+91 8750270003",
+    "address": "Shop 16, DDA Shopping Complex, Gulabi Bagh, Near Shastri Nagar Metro Station, Inderlok, New Delhi",
+    "longitude": 77.18164064,
+    "latitude": 28.66990038
+  },
+  {
+    "name": "Kebabs & Curries",
+    "city": "Delhi NCR",
+    "telephone": "+91 9899589729",
+    "address": "H160, Begumpur, Malviya Nagar, New Delhi",
+    "longitude": 0,
+    "latitude": 0
+  },
+  {
+    "name": "Al-Rim",
+    "city": "Kolkata",
+    "telephone": "+91 8584995526",
+    "address": "7, Stadium Nagar, Ajoy Nagar, Kolkata",
+    "longitude": 88.40280488,
+    "latitude": 22.49033414
+  },
+  {
+    "name": "Piyali Restaurant",
+    "city": "Kolkata",
+    "telephone": "+91 9836543510 +91 8017774839",
+    "address": "19, Dr. S.P. Mukherjee Road, Near Dum Dum Police Station, Dum Dum, Kolkata",
+    "longitude": 88.41556616,
+    "latitude": 22.63629237
+  },
+  {
+    "name": "Rasoi",
+    "city": "Delhi NCR",
+    "telephone": "+91 7303826251",
+    "address": "682, Street 10, Block A, Mahipalpur, New Delhi",
+    "longitude": 0,
+    "latitude": 0
+  },
+  {
+    "name": "Mr. King",
+    "city": "Delhi NCR",
+    "telephone": "+91 9999030405",
+    "address": "518A, H Block, Govind Puram, Ghaziabad",
+    "longitude": 77.48471618,
+    "latitude": 28.68643058
+  },
+  {
+    "name": "Online Cake Palace",
+    "city": "Delhi NCR",
+    "telephone": "+91 8010863903",
+    "address": "",
+    "longitude": 77.3038679,
+    "latitude": 28.58921481
+  },
+  {
+    "name": "Thali King- Make My Thali",
+    "city": "Delhi NCR",
+    "telephone": "011 66992332",
+    "address": "Shop 2, Good Luck Plaza, Sector 20, Dwarka, New Delhi",
+    "longitude": 77.062168,
+    "latitude": 28.567334
+  },
+  {
+    "name": "Rajubhai Bhurji Wala",
+    "city": "",
+    "telephone": "+91 9867546247",
+    "address": "Shop 4, Ratna Jyoti Apartments, Off Shimpoli Road, Opposite Gokhale School, Borivali West,",
+    "longitude": 72.85058822,
+    "latitude": 19.22357466
+  },
+  {
+    "name": "Indian Halal Meat Shop",
+    "city": "Delhi NCR",
+    "telephone": "Not Available",
+    "address": "Shop 10098, Pul bangash Near Azad\n Market Chowk, New Delhi",
+    "longitude": 77.20765673,
+    "latitude": 28.66416477
+  },
+  {
+    "name": "New Madras Cafe",
+    "city": "Delhi NCR",
+    "telephone": "+91 9999344930",
+    "address": "C-1/177, Yamuna Vihar, Shahdara, New Delhi",
+    "longitude": 77.27927875,
+    "latitude": 28.70029204
+  },
+  {
+    "name": "Momos Republic",
+    "city": "",
+    "telephone": "+91 7710869686",
+    "address": "Shop 3, Vesta Building, Lodha Complex, Majiwada, Thane West, Thane",
+    "longitude": 72.98423365,
+    "latitude": 19.21328797
+  },
+  {
+    "name": "Baleshwar Rasoi",
+    "city": "Delhi NCR",
+    "telephone": "+91 8447550669 +91 9650232764",
+    "address": "Ashok Vihar Phase 1, New Delhi",
+    "longitude": 77.16554135,
+    "latitude": 28.68729442
+  },
+  {
+    "name": "Wafflista Cafe",
+    "city": "Delhi NCR",
+    "telephone": "+91 9654709025",
+    "address": "104, J & K Block, Laxmi Nagar, New Delhi",
+    "longitude": 0,
+    "latitude": 0
+  },
+  {
+    "name": "Rajasthali",
+    "city": "Kolkata",
+    "telephone": "",
+    "address": "56/74, NSC Bose Road, Tollygunge, Kolkata",
+    "longitude": 88.35024733,
+    "latitude": 22.4879126
+  },
+  {
+    "name": "Shree Sai Kulcha Hut",
+    "city": "",
+    "telephone": "+91 8080344359",
+    "address": "Shop 1, Nebula Darshan, Wayle Nagar Khadakpada, Kalyan, Thane",
+    "longitude": 73.13330982,
+    "latitude": 19.2542498
+  },
+  {
+    "name": "New Sethi's Restaurant",
+    "city": "Delhi NCR",
+    "telephone": "0120 2754011 0120 2862011",
+    "address": "1, Model Town East, Near Opulent Mall, Nehru Nagar, Ghaziabad",
+    "longitude": 77.43735574,
+    "latitude": 28.65312777
+  },
+  {
+    "name": "Diet Brite",
+    "city": "Delhi NCR",
+    "telephone": "+91 9958160960",
+    "address": "Y-18, Naveen, Shahdara, New Delhi",
+    "longitude": 77.28450805,
+    "latitude": 28.67755501
+  },
+  {
+    "name": "Cafe Meals",
+    "city": "Delhi NCR",
+    "telephone": "+91 8860988858 +91 9990216663",
+    "address": "CB-162, Ring Road, Naraina. Flyover, Naraina, New Delhi",
+    "longitude": 77.13592641,
+    "latitude": 28.62328985
+  },
+  {
+    "name": "Wrap & Roll",
+    "city": "Delhi NCR",
+    "telephone": "+91 9650959897",
+    "address": "Shop 7, Ground Floor, B-1/8, Apsara Arcade, Karol Bagh, New Delhi",
+    "longitude": 77.18870021,
+    "latitude": 28.64357115
+  },
+  {
+    "name": "Lalaji Food Plaza",
+    "city": "Kolkata",
+    "telephone": "+91 9163802099 +91 9163842505",
+    "address": "256, GT Road, Liluah, Howrah",
+    "longitude": 88.34699683,
+    "latitude": 22.61594523
+  },
+  {
+    "name": "Om Sweets & Snacks",
+    "city": "Delhi NCR",
+    "telephone": "0124 4271101 0124 4271102",
+    "address": "SCO 17, Main Market, Sector 31, Gurgaon",
+    "longitude": 77.05057986,
+    "latitude": 28.45323374
+  },
+  {
+    "name": "Hakka Treat",
+    "city": "Delhi NCR",
+    "telephone": "+91 7827382981",
+    "address": "5/195, Lalita Park, Laxmi Nagar, New Delhi",
+    "longitude": 77.2722312,
+    "latitude": 28.6298589
+  },
+  {
+    "name": "M M Fast Food Center",
+    "city": "Kolkata",
+    "telephone": "+91 8584072428",
+    "address": "7B, Raja SC Mullick Road, Jadavpur, Kolkata",
+    "longitude": 88.37050539,
+    "latitude": 22.49677022
+  },
+  {
+    "name": "Desi Chulha",
+    "city": "Delhi NCR",
+    "telephone": "+91 9811118815",
+    "address": "A- 151, Jaitpur Extension Part 1, Badarpur Border, Faridabad",
+    "longitude": 0,
+    "latitude": 0
+  },
+  {
+    "name": "Cheers Resto Bar",
+    "city": "Delhi NCR",
+    "telephone": "+91 9718999702 00 97189999703",
+    "address": "G-16-21 RG-1 Complex, Prashant Vihar, Ssector 14, Prashant Vihar, New Delhi",
+    "longitude": 77.13475529,
+    "latitude": 28.71614263
+  },
+  {
+    "name": "Good Food Xpress & Bakery",
+    "city": "Delhi NCR",
+    "telephone": "011 40214545 +91 9990499909",
+    "address": "A-1, 2, 10 NN Towers, Road 44, Plot 23 A, Pitampura, New Delhi",
+    "longitude": 77.13514321,
+    "latitude": 28.68936973
+  },
+  {
+    "name": "Delicious Treasure",
+    "city": "Delhi NCR",
+    "telephone": "+91 8588813096",
+    "address": "E-143 E Block Sector 52, Noida",
+    "longitude": 77.37043664,
+    "latitude": 28.59277165
+  },
+  {
+    "name": "Thali Junction",
+    "city": "Kolkata",
+    "telephone": "+91 8584958500",
+    "address": "4th Floor, 16th Street, Block-AL, New Town, Kolkata",
+    "longitude": 88.45114835,
+    "latitude": 22.57555832
+  },
+  {
+    "name": "Special Muradabadi Chicken Biryani",
+    "city": "Delhi NCR",
+    "telephone": "+91 7409622388",
+    "address": "17, Opposite Dlf Tower B, Jasola, New Delhi",
+    "longitude": 77.2872507,
+    "latitude": 28.5390775
+  },
+  {
+    "name": "Kitchen Lab",
+    "city": "Delhi NCR",
+    "telephone": "+91 7303421048 +91 9910354783",
+    "address": "13E/20, 1st Floor, Vasundhara Hatt Complex, Sector 13, Vasundhara, Ghaziabad",
+    "longitude": 0,
+    "latitude": 0
+  },
+  {
+    "name": "Rani's Bakery",
+    "city": "",
+    "telephone": "022 28443446 +91 9820890255",
+    "address": "1, Sai Amar Building, Evershine Nagar, Behind Jharna Hotel, Off Link Road, Malad West,",
+    "longitude": 72.83328496,
+    "latitude": 19.19282286
+  },
+  {
+    "name": "The Kitchen Exotica",
+    "city": "Delhi NCR",
+    "telephone": "+91 8010132132 +91 7827132132",
+    "address": "Near Sarita Vihar Police Station, Opposite Apollo Hospital, Main Mathura Road, Jasola, New Delhi",
+    "longitude": 77.2818655,
+    "latitude": 28.5398965
+  },
+  {
+    "name": "Choco Smith Gourmet Bakery",
+    "city": "Delhi NCR",
+    "telephone": "011 29254973 011 29254974",
+    "address": "Shop 13-15, Local Shopping Complex, Press Enclave Road, Sheikh Sarai 2, New Delhi",
+    "longitude": 77.23111097,
+    "latitude": 28.53379265
+  },
+  {
+    "name": "Café Bogchi",
+    "city": "Delhi NCR",
+    "telephone": "+91 9818171953 0129 4055773",
+    "address": "SCF 39, First Floor, Above Axis Bank, Sector 15, Faridabad",
+    "longitude": 77.32380476,
+    "latitude": 28.3951792
+  },
+  {
+    "name": "Song Dong Momos & Kathi Roll",
+    "city": "Delhi NCR",
+    "telephone": "+91 9999595213",
+    "address": "SLF Mall, Sector 31, Faridabad",
+    "longitude": 77.31544264,
+    "latitude": 28.45486708
+  },
+  {
+    "name": "Vardaan Food Corner",
+    "city": "Delhi NCR",
+    "telephone": "+91 9837843928",
+    "address": "U-71, 52, Sector 24, DLF Phase 3, Gurgaon",
+    "longitude": 77.0923575,
+    "latitude": 28.4898921
+  },
+  {
+    "name": "Chaska Point",
+    "city": "Delhi NCR",
+    "telephone": "+91 9315841436",
+    "address": "DA-3, Metro Pillar 53, Main Vikas Marg, Shakarpur, New Delhi",
+    "longitude": 77.283784,
+    "latitude": 28.634655
+  },
+  {
+    "name": "CHD Chache Di Hatti",
+    "city": "Delhi NCR",
+    "telephone": "+91 9582157112 +91 9818219808",
+    "address": "PVR Complex, Vasant Vihar, New Delhi",
+    "longitude": 77.16378853,
+    "latitude": 28.55873412
+  },
+  {
+    "name": "Fabelle Chocolate Boutique - ITC Maurya",
+    "city": "Delhi NCR",
+    "telephone": "011 66325360",
+    "address": "ITC Maurya, Chanakyapuri, New Delhi",
+    "longitude": 77.17323359,
+    "latitude": 28.59791152
+  },
+  {
+    "name": "The Subtle Baker",
+    "city": "Kolkata",
+    "telephone": "+91 9163758881",
+    "address": "20, Bijoy Kumar Mukherjee Road, Babudanga, Dobson Road, Howrah",
+    "longitude": 88.34320117,
+    "latitude": 22.59391024
+  },
+  {
+    "name": "Frozen Fantasy",
+    "city": "Delhi NCR",
+    "telephone": "+91 7290007783 +91 7290007785",
+    "address": "Safdarjung, New Delhi",
+    "longitude": 77.19390001,
+    "latitude": 28.56149839
+  },
+  {
+    "name": "Thooso",
+    "city": "",
+    "telephone": "+91 9136091013 +91 9136091014",
+    "address": "2nd Floor, Chapmak Studio, Beside Yash Raj Studio, In Fun Republic Lane, Andheri Lokhandwala, Andheri West,",
+    "longitude": 72.83465356,
+    "latitude": 19.13561686
+  },
+  {
+    "name": "Snickerdoodle-Virgin Bar & Cafe",
+    "city": "",
+    "telephone": "+91 9860032615 +91 9890361591",
+    "address": "3, Kher Section, Swami Samarth Chowk, Opposite Punjab National Bank, Ulhasnagar, Ambernath,",
+    "longitude": 73.18302926,
+    "latitude": 19.20503745
+  },
+  {
+    "name": "Rollick",
+    "city": "Kolkata",
+    "telephone": "+91 9830110245",
+    "address": "1A, Russel Street, Park Street Area, Kolkata",
+    "longitude": 88.35128333,
+    "latitude": 22.55390918
+  },
+  {
+    "name": "Naturals Ice Cream",
+    "city": "Delhi NCR",
+    "telephone": "011 43785502 +91 8368436163",
+    "address": "L-8, L Block, Outer Circle Connaught Place, New Delhi",
+    "longitude": 77.22203135,
+    "latitude": 28.63446211
+  },
+  {
+    "name": "Ghar Jaisa Khana",
+    "city": "Delhi NCR",
+    "telephone": "+91 9599094989 +91 9210940969",
+    "address": "2/2, Baberpur, Prem Gali, Shahdara, New Delhi",
+    "longitude": 77.28211049,
+    "latitude": 28.68520555
+  },
+  {
+    "name": "Raja Sweets",
+    "city": "Kolkata",
+    "telephone": "+91 9088695880",
+    "address": "B 16/9, ITI More, Ghoshpara Road, Nadia, Kalyani, Kolkata",
+    "longitude": 88.438191,
+    "latitude": 22.980279
+  },
+  {
+    "name": "Bake-Days",
+    "city": "Delhi NCR",
+    "telephone": "011 28525225 +91 7529944243",
+    "address": "WZ-1234, Arya Samaj Road, Near Friends Cable Network, Nagal Raya, Janakpuri, New Delhi",
+    "longitude": 77.10927129,
+    "latitude": 28.60714499
+  },
+  {
+    "name": "Kerala Cafe",
+    "city": "Delhi NCR",
+    "telephone": "+91 9650696710 011 22755150",
+    "address": "Shop 4 & 5, 1st Floor, Block A/18, Acharya Niketan, Mayur Vihar Phase 1, New Delhi",
+    "longitude": 77.29465887,
+    "latitude": 28.60705492
+  },
+  {
+    "name": "Dana Pani Foods",
+    "city": "Delhi NCR",
+    "telephone": "+91 9711885550",
+    "address": "H 79 Sector 63, Noida",
+    "longitude": 77.3826144,
+    "latitude": 28.6266412
+  },
+  {
+    "name": "Dil Chinese Fast Food",
+    "city": "Delhi NCR",
+    "telephone": "+91 8448668249",
+    "address": "Near KSM Public School, Ghitorni Main Market, MG Road, New Delhi",
+    "longitude": 77.14409072,
+    "latitude": 28.49427993
+  },
+  {
+    "name": "Richie's Cafe",
+    "city": "Delhi NCR",
+    "telephone": "+91 9958007086 +91 8958829911",
+    "address": "Chaprana Complex, Near Paras Apartment, Sector 31, Faridabad",
+    "longitude": 77.31698256,
+    "latitude": 28.44822801
+  },
+  {
+    "name": "Sunil Bakery",
+    "city": "Delhi NCR",
+    "telephone": "+91 9717334689 +91 9643558924",
+    "address": "203A, Near Power House, Basant Gaon, Vasant Vihar, New Delhi",
+    "longitude": 77.1586987,
+    "latitude": 28.57329261
+  },
+  {
+    "name": "Techies Time to Tea",
+    "city": "Delhi NCR",
+    "telephone": "+91 8377868668 0120 4547982",
+    "address": "C-98/27, 2nd Floor, Jain Road, Sector 41, Noida",
+    "longitude": 77.36215699,
+    "latitude": 28.5691521
+  },
+  {
+    "name": "Chop Shop Chicken Shop",
+    "city": "Delhi NCR",
+    "telephone": "+91 8377078027 +91 9999712779",
+    "address": "Shop 54, Opposite TCS Maruti Showroom, Main Neelam Chowk, NIT, Faridabad",
+    "longitude": 77.30648004,
+    "latitude": 28.39222092
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Asad's Cafe",
+    "city": "",
+    "telephone": "00 919920772736 00 919920769659",
+    "address": "Shop  A/1, Ostwal Paradise , BLDG 3, CHS Ltd., NH School, Near Shivar Garden, Mira Road,",
+    "longitude": 72.86489848,
+    "latitude": 19.28810849
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "The Ramkrishna Sweets",
+    "city": "Kolkata",
+    "telephone": "+91 9830387881",
+    "address": "1/6 A, Mahajati Nagar, Block 1, Dum Dum, Kolkata",
+    "longitude": 88.43460616,
+    "latitude": 22.64717834
+  },
+  {
+    "name": "Bedouin - Sher e Bengal",
+    "city": "Kolkata",
+    "telephone": "033 40603009 +91 9836515261",
+    "address": "200/2B, Gariahat Road, Gariahat, Kolkata",
+    "longitude": 88.36285539,
+    "latitude": 22.51914871
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Aavakay",
+    "city": "",
+    "telephone": "+91 8957575708",
+    "address": "Gayatri Satsang Building, Behind Vishnu Shivam Mall, Thakur Village, Kandivali East,",
+    "longitude": 72.87127778,
+    "latitude": 19.21228877
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Calcutta Chiit Chaat",
+    "city": "Kolkata",
+    "telephone": "+91 7980506976 +91 9748807249",
+    "address": "R.A. 308, Nabapally, Sector 4, Salt Lake",
+    "longitude": 88.41293458,
+    "latitude": 22.55739592
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Tulsa Hotel",
+    "city": "",
+    "telephone": "Not Available",
+    "address": "Near Gove Toll Naka, Kalyan Bhiwandi Road, Kalyan,",
+    "longitude": 73.099023,
+    "latitude": 19.251674
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Amor Churros",
+    "city": "",
+    "telephone": "+91 9653185951",
+    "address": "Shop 1, Gagangiri Society, Panch Pakhadi, Thane West, Thane",
+    "longitude": 72.96753287,
+    "latitude": 19.19298561
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Only For Foodies",
+    "city": "Kolkata",
+    "telephone": "+91 9007882828",
+    "address": "519/D, G T Road, Mahesh, Serampore, Kolkata",
+    "longitude": 88.35038949,
+    "latitude": 22.74242406
+  },
+  {
+    "name": "Cumin",
+    "city": "Kolkata",
+    "telephone": "+91 8240568807",
+    "address": "Baguiati Chawal Patty, Prassad Ray Smriti Market, Bidhannagar, Rajarhat Municipal Corporation, Baguihati, Kolkata",
+    "longitude": 88.42575755,
+    "latitude": 22.61057632
+  },
+  {
+    "name": "West India Co. Bar & Kitchen",
+    "city": "",
+    "telephone": "+91 7506677499 +91 9769674447",
+    "address": "Shop 12/13, The Walk, Behind Westside, Ventana Building, Hiranandani Estate, Thane West, Thane",
+    "longitude": 72.98350275,
+    "latitude": 19.25526679
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "The Foodiez",
+    "city": "Kolkata",
+    "telephone": "+91 7003477719",
+    "address": "3H/5, Ibrahim Road, Kidderpore, Kolkata",
+    "longitude": 88.3249303,
+    "latitude": 22.53527353
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Mumma's Kitchen",
+    "city": "",
+    "telephone": "+91 9969084242 022 28908648",
+    "address": "Shop 2, Prabhu Industrail Estate, Next to Corporation Bank, I.C. Colony, Borivali West,",
+    "longitude": 72.85021406,
+    "latitude": 19.24551007
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "CLA",
+    "city": "",
+    "telephone": "+91 7715995656 +91 7715995757",
+    "address": "Shop 12, Jaikarwadi, Opposite Wadala Bridge, Wadala East, Wadala,",
+    "longitude": 72.86383398,
+    "latitude": 19.01849619
+  },
+  {
+    "name": "Republic Of Chicken",
+    "city": "Kolkata",
+    "telephone": 18605001033,
+    "address": "Rosedale Plaza Complex, AA III, New Town, Kolkata",
+    "longitude": 88.49080514,
+    "latitude": 22.56159284
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Maa Tara Food Zone",
+    "city": "Kolkata",
+    "telephone": "+91 8240511615",
+    "address": "F8, Kharia Bhawan, Baguihati, Kolkata",
+    "longitude": 88.42732698,
+    "latitude": 22.61047945
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Dolphin Restaurant",
+    "city": "Kolkata",
+    "telephone": "+91 9051317551",
+    "address": "43, KNC Road, Near Barasat Thana, Barasat, Kolkata",
+    "longitude": 88.48102178,
+    "latitude": 22.71927192
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Ayyappan's - The South Indian Bistro",
+    "city": "",
+    "telephone": "+91 9833048505",
+    "address": "Shop 10 Hari Plaza, Therwani Heritage, Sector 7, Kharghar, Navi",
+    "longitude": 73.0653704,
+    "latitude": 19.0345724
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Shradda",
+    "city": "",
+    "telephone": "022 25404205 022 25423359",
+    "address": "Manisha Nagar, Gate 2,  Pune Road, Kalwa West, Kalwa,",
+    "longitude": 72.99230106,
+    "latitude": 19.1975344
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Refresh Katta",
+    "city": "",
+    "telephone": "+91 8976579078",
+    "address": "Shop 6, Dipali Kunj CHS, Nehru Road, Opposite Municipality Garden, Dombivli East, Dombivli",
+    "longitude": 73.09049942,
+    "latitude": 19.22039773
+  },
+  {
+    "name": "Burmese Bahar",
+    "city": "Kolkata",
+    "telephone": "00 983074903",
+    "address": "Pioneer Park, Helabattala, Barasat, Barasat, Kolkata",
+    "longitude": 88.47875968,
+    "latitude": 22.72392623
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Hungryy Birdz",
+    "city": "Kolkata",
+    "telephone": "+91 7076444476 +91 9830304747",
+    "address": "7/1, Srijoni Road, Opposite Thakurpukur Cancer Hospital, Thakur Pukur, Kolkata",
+    "longitude": 88.31783015,
+    "latitude": 22.45912716
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Cake Paradise",
+    "city": "Kolkata",
+    "telephone": "Not Available",
+    "address": "G4, BA 14/8, Shibalay Apartment, Near Sports Council Club, Baguihati, Kolkata",
+    "longitude": 88.42483755,
+    "latitude": 22.61350175
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Tulsi",
+    "city": "",
+    "telephone": "+91 9820420375",
+    "address": "34A, Raj Arcade, Opposite D Mart, Mahavir Nagar, Kandivali West,",
+    "longitude": 72.84167022,
+    "latitude": 19.21310751
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Sindhudurg",
+    "city": "",
+    "telephone": "022 25832970 022 25829952",
+    "address": "Krishna Sadan, Mulund Check Naka, Wagle Estate, Thane West",
+    "longitude": 72.95524433,
+    "latitude": 19.18695002
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Pizza Boys",
+    "city": "",
+    "telephone": "022 68493490",
+    "address": "Shanti Sadan, Walabhdas Compund, Opp. Ganga Niwas, Next to Lakozy Toyota Showroom, Off Chicholi Bunder Road, Malad West,",
+    "longitude": 72.83598326,
+    "latitude": 19.1811118
+  },
+  {
+    "name": "Ajooba Biryani Junction",
+    "city": "Kolkata",
+    "telephone": "+91 9051361085",
+    "address": "Shop 27 & 28, Near Peerless Hospital, Pancha Sayar, Garia, Kolkata",
+    "longitude": 88.3927295,
+    "latitude": 22.48358674
+  },
+  {
+    "name": "Snack Shack",
+    "city": "Kolkata",
+    "telephone": "+91 9830678655 +91 9903994234",
+    "address": "54, NSC Bose Road, Mahamaya Apartment, Besides Spencers, Narendra Pur, Kolkata",
+    "longitude": 88.38679673,
+    "latitude": 22.45464826
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "The Biryani Darbar",
+    "city": "Kolkata",
+    "telephone": "+91 7908144616",
+    "address": "Gate 2, Shahpoorji Complex, New Town, Kolkata",
+    "longitude": 88.514078,
+    "latitude": 22.565736
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Rajubhai Dhoklawala",
+    "city": "",
+    "telephone": "+91 9821356977 +91 9773355199",
+    "address": "9, Om Sai Ratna Rajul Building, Mahatma Gandhi Road, Kandivali West,",
+    "longitude": 72.84323461,
+    "latitude": 19.20554372
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Jhama Silver Sweets",
+    "city": "",
+    "telephone": "022 27548621",
+    "address": "4, Ajanta Building, Sector 15, Kopar Khairane, Navi",
+    "longitude": 73.00553307,
+    "latitude": 19.09956925
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Lucknow",
+    "city": "Kolkata",
+    "telephone": "+91 9748709693",
+    "address": "223/B, Dum Dum, Kolkata",
+    "longitude": 88.40774886,
+    "latitude": 22.62208515
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "The Cone Factory",
+    "city": "",
+    "telephone": "+91 8369476552 +91 7777039582",
+    "address": "Ground Floor, Jatia Chambers 60, Dr V.B. Gandhi Marg, Kala Ghoda, Fort,",
+    "longitude": 72.83264358,
+    "latitude": 18.92826554
+  },
+  {
+    "name": "The Artistic Desserts",
+    "city": "Kolkata",
+    "telephone": "+91 9748791032",
+    "address": "EA 10/10, Desh Bandhu Nagar, Baguihati, Kolkata",
+    "longitude": 88.42336066,
+    "latitude": 22.61281744
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "The Ahare Bahare Kitchen",
+    "city": "Kolkata",
+    "telephone": "+91 9674983507 +91 8276818781",
+    "address": "13/B,Biren Roy Road(West). Near Barisha Yubok Brindo Club, Behala Chowrasta.",
+    "longitude": 88.312082,
+    "latitude": 22.485758
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Nanuji- By Nanumal Bhojraj",
+    "city": "",
+    "telephone": "022 61736004",
+    "address": "7&8, Plot D2M, Landmark CHS Limited, Prime Mall Lane, Sector 12, Kharghar, Navi",
+    "longitude": 73.064282,
+    "latitude": 19.040446
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Orange And Chilli Biryani",
+    "city": "",
+    "telephone": "+91 9833388804",
+    "address": "Shop 48, Shell Colony Road, Opposite Padma Palace, Chembur,",
+    "longitude": 72.89622501,
+    "latitude": 19.06401098
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Ghare Baire",
+    "city": "Kolkata",
+    "telephone": "+91 9748272939 033 32628326",
+    "address": "204, Harish Mukherjee Road, Near Sangam Beauty Parlour, Hazra, Kolkata",
+    "longitude": 88.34392671,
+    "latitude": 22.52378564
+  },
+  {
+    "name": "TIME PASS",
+    "city": "Kolkata",
+    "telephone": "+91 9748608847",
+    "address": "Shop 12, H.C Dutta Road Sodepur, Khardah, Kolkata",
+    "longitude": 88.38251766,
+    "latitude": 22.7024616
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Damru Paan Shop",
+    "city": "",
+    "telephone": "+91 9869324888",
+    "address": "Shop 1, Dama Villa, Near Kora Kendra Ground, Borivali West,",
+    "longitude": 72.84775078,
+    "latitude": 19.22050632
+  },
+  {
+    "name": "Gujrati Basa",
+    "city": "Kolkata",
+    "telephone": "00 08420134998",
+    "address": "1, Rupchand Roy Street, Bara Bazar, Kolkata",
+    "longitude": 88.35553698,
+    "latitude": 22.57918445
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "New Airport Restaurant",
+    "city": "",
+    "telephone": "022 29255552 022 29255553",
+    "address": "Noori Baugh, Opposite Star Chemical, Below Airport Metro Station, Andheri Kurla Road, Marol Naka, Marol,",
+    "longitude": 72.87550595,
+    "latitude": 19.10972332
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Karan Momos Corner",
+    "city": "",
+    "telephone": "+91 7219004407",
+    "address": "Shiv Mandir Road, Near Mayflower Garden, Shiv Ganga Chowk, Ulhasnagar, Thane",
+    "longitude": 73.18019215,
+    "latitude": 19.20224581
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Heart Bites",
+    "city": "Kolkata",
+    "telephone": "+91 8420420553",
+    "address": "A/69, Baghajatin Colony, Ashirbad Market, Baghajatin, Kolkata",
+    "longitude": 88.371433,
+    "latitude": 22.485325
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "O Zone Restaurant & Bar",
+    "city": "Kolkata",
+    "telephone": "033 32562637",
+    "address": "Meridian Mall, 1st Floor, 2/4, Raghunathpur, V.I.P. Road, Baguihati, Kolkata",
+    "longitude": 88.43130335,
+    "latitude": 22.61705105
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Tingly Vingly",
+    "city": "",
+    "telephone": "+91 9773435235 +91 7743999888",
+    "address": "7/10, Bara Chawl, Sitaram Jadhav Marg, Lower Parel,",
+    "longitude": 72.82739047,
+    "latitude": 18.99636197
+  },
+  {
+    "name": "The Royal Spice",
+    "city": "Kolkata",
+    "telephone": "+91 9062937537 +91 9062725181",
+    "address": "21 BT Road, 4th Floor, Sodepur, Kolkata",
+    "longitude": 88.37451596,
+    "latitude": 22.70334527
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Lakeside",
+    "city": "",
+    "telephone": "+91 7719088222 +91 7757881868",
+    "address": "Martin Commercial Complex, Link Arcade, Achole Road, Nalasopara East, Nalasopara,",
+    "longitude": 72.82631289,
+    "latitude": 19.40998153
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Noorani Restaurant",
+    "city": "",
+    "telephone": "022 25494864 022 25356697",
+    "address": "Aafrin Apartment, Bombay Pune Road, Kausa, Mumbra, Thane",
+    "longitude": 73.0248091,
+    "latitude": 19.16905789
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Classic Snacks",
+    "city": "Kolkata",
+    "telephone": "033 23452466",
+    "address": "Old Baguihati Bazar, Baguihati Main Road, Baguihati, Kolkata",
+    "longitude": 88.42753887,
+    "latitude": 22.61046026
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Blossom Food Plaza",
+    "city": "Kolkata",
+    "telephone": "+91 9143861106 +91 8420565091",
+    "address": "241/1, G.T. Road, Liluah, Howrah",
+    "longitude": 88.34897764,
+    "latitude": 22.62017007
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Green Pepper",
+    "city": "Kolkata",
+    "telephone": "+91 9903757836",
+    "address": "21/A/2, Dewangazi Road, Belur, Howrah",
+    "longitude": 88.34796678,
+    "latitude": 22.6432062
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Creamy Nuts",
+    "city": "",
+    "telephone": "+91 9619497980 +91 9619497954",
+    "address": "Shop 21, Navdurga CHS, Sector 19A, Nerul, Navi",
+    "longitude": 73.02489091,
+    "latitude": 19.02996995
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Paratha's",
+    "city": "",
+    "telephone": "022 25797923 022 40262826",
+    "address": "196, Galleria Food Court, Galleria Shopping Centre, Hiranandani Gardens, Powai,",
+    "longitude": 72.91174024,
+    "latitude": 19.11957076
+  },
+  {
+    "name": "New Bismillah Caterers",
+    "city": "",
+    "telephone": "+91 9167516486 +91 9167524086",
+    "address": "2, Anu Govind Sadan, Opposite DK Tower, Plot E-41, Sector 20, Airoli, Navi",
+    "longitude": 72.98989814,
+    "latitude": 19.16130555
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Kishan Cafe",
+    "city": "Kolkata",
+    "telephone": "033 22687339 +91 9830681303",
+    "address": "178, Mahatma Gandhi Road, Bara Bazar, Kolkata",
+    "longitude": 88.35319374,
+    "latitude": 22.58117966
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Ashoka Bar & Restaurant",
+    "city": "Kolkata",
+    "telephone": "033 22282248 033 66247925",
+    "address": "3B, Chowringhee Road, Near Metro Cinema, New Market Area, Kolkata",
+    "longitude": 88.35160855,
+    "latitude": 22.5646286
+  },
+  {
+    "name": "New Royal Biryani",
+    "city": "Kolkata",
+    "telephone": "+91 9088486228 +91 9062808418",
+    "address": "153/2, Ray Bahadur Road, Behala, Kolkata",
+    "longitude": 88.32707774,
+    "latitude": 22.49981669
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "AAPS 3SQUARE",
+    "city": "",
+    "telephone": "+91 9372912343",
+    "address": "Shop 15, Plot 72, Vishwa Highland, Sector 20, Kamothe, Navi",
+    "longitude": 73.097259,
+    "latitude": 19.018932
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Khane Khas",
+    "city": "",
+    "telephone": "022 26006970 022 26054605",
+    "address": "4, Silver Croft Building, Junction Of 16th & 33rd Road, TPS 3, Pali Hill, Bandra West,",
+    "longitude": 72.83087298,
+    "latitude": 19.06547341
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "The Albela's Kitchen",
+    "city": "Kolkata",
+    "telephone": "+91 9330908844 +91 9088017956",
+    "address": "Podrah Vivekananda Nagar Colony, Chunabhatti, Andul Road, Howrah",
+    "longitude": 88.29623502,
+    "latitude": 22.56289725
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "1Tablespoon Italian Ice Cream",
+    "city": "",
+    "telephone": "+91 9820233441 022 24033441",
+    "address": "23 Ram Villa, Road 1A, Opposite Sahakari Bhandar, King Circle, Matunga East,",
+    "longitude": 72.85786305,
+    "latitude": 19.02754017
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Duke Bar & Restaurant",
+    "city": "Kolkata",
+    "telephone": "033 22219153 033 22345751",
+    "address": "11, Chittaranjan Avenue, Chandni Chowk, Kolkata",
+    "longitude": 88.3538663,
+    "latitude": 22.56666458
+  },
+  {
+    "name": "Chai Addaa",
+    "city": "Kolkata",
+    "telephone": "+91 9062454275",
+    "address": "188/13, Prince Anwar Shah Road, Kolkata",
+    "longitude": 88.35764654,
+    "latitude": 22.50213767
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Neel Ki Biryani",
+    "city": "",
+    "telephone": "022 28516262 022 28516363",
+    "address": "Plot 130, Marol Cooperative Society, M.V Road, Marol,",
+    "longitude": 72.8829319,
+    "latitude": 19.1096507
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Ammeez Kitchen",
+    "city": "",
+    "telephone": "+91 9820009857",
+    "address": "Blue Monarch A-601, Military Road, Next to Riddhi Siddhi Society, Marol,",
+    "longitude": 72.88002513,
+    "latitude": 19.12052269
+  },
+  {
+    "name": "Shahi Mahal Restaurant",
+    "city": "Kolkata",
+    "telephone": "+91 9433938786",
+    "address": "B-15, Garden Road, Kidderpore, Kolkata",
+    "longitude": 88.28765061,
+    "latitude": 22.54852547
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Cafe Istaa",
+    "city": "",
+    "telephone": "022 61344336",
+    "address": "12 A/1 New Sion C.H.S. Limited, Sion,",
+    "longitude": 72.86112964,
+    "latitude": 19.04177665
+  },
+  {
+    "name": "Pepsi Snacks Bar",
+    "city": "Kolkata",
+    "telephone": "+91 9641986844",
+    "address": "15/6, Bertram Street, New Market Area, Kolkata",
+    "longitude": 88.3520082,
+    "latitude": 22.56037573
+  },
+  {
+    "name": "Leafy Affaire",
+    "city": "Kolkata",
+    "telephone": "+91 6291391811 +91 9686244635",
+    "address": "12C, Flat 6A, Lord Sinha Road, Shyamkunj Building, Near Camac Street Area, Kolkata, Theatre Road, Kolkata",
+    "longitude": 88.35256174,
+    "latitude": 22.55130668
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Kitchens By SRR Masala",
+    "city": "",
+    "telephone": "+91 8080343567",
+    "address": "Shop 9, Ground Floor, Next to Vireshwar studio,Military Road, Marol,",
+    "longitude": 72.88012236,
+    "latitude": 19.11696268
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Royal Fast Food Hub",
+    "city": "Kolkata",
+    "telephone": "+91 9804998876",
+    "address": "176/A, Indira Gandhi Road, Rammohan Place, Konnagar, Kolkata",
+    "longitude": 88.34374432,
+    "latitude": 22.70232335
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Malvan Kinara",
+    "city": "",
+    "telephone": "+91 7506077718",
+    "address": "Shop 7, Building 54/2, Shree CHS, Tilak Nagar, Chembur,",
+    "longitude": 72.89480545,
+    "latitude": 19.06716303
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "New Arsalan Biryani",
+    "city": "Kolkata",
+    "telephone": "+91 9304074989 +91 7003092050",
+    "address": "7/2 K.C. Sen Road, Near Rishra Medical Service, Rishra, Kolkata",
+    "longitude": 88.34110402,
+    "latitude": 22.72385108
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Lobby Bar - Zone By The Park",
+    "city": "Kolkata",
+    "telephone": "033 23246300",
+    "address": "Gate 04, DG Block, Biswa Bangla Convention Center, New Town, Kolkata",
+    "longitude": 88.474664,
+    "latitude": 22.582356
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "New Modern Cafe",
+    "city": "",
+    "telephone": "0251 2443644",
+    "address": "1, Chirag CHS, Phadke Road, Dombivali East,",
+    "longitude": 73.09036598,
+    "latitude": 19.21920957
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Little Loco Pops",
+    "city": "",
+    "telephone": "+91 9769389854",
+    "address": "Shop 1, Blue Jewel Building, Ahimsa Marg, Near Malad Link Road, Malad West,",
+    "longitude": 72.83909403,
+    "latitude": 19.17450193
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Bell Pepper",
+    "city": "Kolkata",
+    "telephone": "+91 6291109805",
+    "address": "1B, Emon Kalyan, 352, Kalyannagar, Bokultala, Rahara, Khardah, Kolkata",
+    "longitude": 88.389615,
+    "latitude": 22.721012
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Kamaluddin Restaurant",
+    "city": "",
+    "telephone": "022 23778003 +91 9619407107",
+    "address": "103/105, Mount Road, Sant Savta Marg, AGA Building, Mustafa Bazar, Naka Mazgaon, Byculla,",
+    "longitude": 72.84063924,
+    "latitude": 18.9763383
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "New Town Bakery",
+    "city": "Kolkata",
+    "telephone": "+91 9804750827",
+    "address": "Rajarhat Road, Atghara Check Post, Near Indian Bank, Chinar Park, Kolkata",
+    "longitude": 88.44592005,
+    "latitude": 22.62782311
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Fabelle Exquisite Chocolates",
+    "city": "Kolkata",
+    "telephone": "+91 7604053717",
+    "address": "33, Quest Mall, Syed Amir Ali Ave, Beck Bagan, Ballygunge, Kolkata",
+    "longitude": 88.36567339,
+    "latitude": 22.5390986
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Nawab Seekh Corner",
+    "city": "",
+    "telephone": "+91 7977199258",
+    "address": "Plot 84, Shop 84B, Ground Floor, Patel Chawl, Chakala Market, Mohammad Ali Road,",
+    "longitude": 72.83456471,
+    "latitude": 18.95017288
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Hotel Ambika Pure Veg",
+    "city": "",
+    "telephone": "0251 2438937 0251 2434636",
+    "address": "Jairam Sadan, Phadke Road, Dombivali East,  Dombivali East",
+    "longitude": 73.08979802,
+    "latitude": 19.21868119
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Zaiqa Mediterranean And Asian Cuisine",
+    "city": "Kolkata",
+    "telephone": "+91 7044396311",
+    "address": "33, Royd Street, Opposite AG School Junior Section, Park Street Area, Kolkata",
+    "longitude": 88.35711714,
+    "latitude": 22.55213559
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Lorreta's Sweet Inspirations",
+    "city": "",
+    "telephone": "+91 9867235126 +91 8097598395",
+    "address": "Gonsalves Villa, Karadi Wadi, Sandor, Bangli-Papdy Road, Opposite Carmelite Convent High School,  Vasai,",
+    "longitude": 72.80674107,
+    "latitude": 19.3605459
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "Jadukadai",
+    "city": "Kolkata",
+    "telephone": "+91 9432683250",
+    "address": "102/A/23, Lal Bahadur Sastri Road, Konnagar, Kolkata",
+    "longitude": 88.34266204,
+    "latitude": 22.69831105
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "",
+    "city": "",
+    "telephone": "",
+    "address": "",
+    "longitude": "",
+    "latitude": ""
+  },
+  {
+    "name": "UG Cafe Bar - HHI",
+    "city": "Kolkata",
+    "telephone": "+91 9831252442 033 22802323",
+    "address": "Hotel Hindusthan International, 235/1, A.J.C. Bose Road",
+    "longitude": 88.35054673,
+    "latitude": 22.54162546
+  }
+]
